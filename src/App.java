@@ -9,6 +9,6 @@ public class App {
         e1.setEmp_name("Sarath");
         e1.setEmp_desig("Manager");
 
-        System.out.println(e1);
+        System.out.println(e1.hashcode());
     }
 }
